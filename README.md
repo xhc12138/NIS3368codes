@@ -1,1 +1,7 @@
-# NIS3368codes 
+# NIS3368codes
+
+ljj:line001
+
+ljj:line002
+
+ljj:line003
